@@ -1,1 +1,1 @@
-# mystream-landing
+# myStream Landing Page
